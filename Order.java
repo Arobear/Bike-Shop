@@ -1,4 +1,3 @@
-// Order.java
 public class Order {
     private String name;
     private String phone;
